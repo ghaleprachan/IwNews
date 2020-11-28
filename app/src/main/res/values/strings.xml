@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">iw News</string>
+    <string name="news">News</string>
+    <string name="iw">iw-</string>
+    <string name="longtext"><![CDATA[This has been a year filled with uncertainty, and it\'s led to record-breaking volatility on Wall Street. Although things may look relatively calm now, the broad-based S&P 500 registered its fastest bear-market drop ever in March, and the index has logged 10 of its largest single-session point declines in history since the year began.]]></string>
+</resources>
