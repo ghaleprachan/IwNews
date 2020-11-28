@@ -26,6 +26,9 @@
         <activity
             android:name=".activities.detailedNews.DetailedNews"
             android:parentActivityName=".activities.newsDashboard.NewsDashboard" />
+        <activity
+            android:name=".activities.aboutApp.AboutSection"
+            android:parentActivityName=".activities.newsDashboard.NewsDashboard" />
 
         <meta-data
             android:name="preloaded_fonts"
